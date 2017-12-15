@@ -9,12 +9,12 @@
 } item:@"IDFA",@"DeviceModel",@"AppVersion",nil];
 ```
 可选参数列表
-*IDFA：广告标识符
-*IDFV：应用唯一标识符
-*DeviceModel：设备型号
-*AppVersion：设备型号
-*SystemVersion：系统版本号
-*SystemName:系统名称
-*BundleID：应用bundleID
-*IpAddress：设备IP地址
+* IDFA：广告标识符
+* IDFV：应用唯一标识符
+* DeviceModel：设备型号
+* AppVersion：设备型号
+* SystemVersion：系统版本号
+* SystemName:系统名称
+* BundleID：应用bundleID
+* IpAddress：设备IP地址
 
